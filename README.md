@@ -15,6 +15,32 @@ git clone https://github.com/Xzuya-Dev/wa+bot
 cd Xzuya
 npm install
 ```
+
+[ RECOMMENDED INSTALL ON TERMUX ]
+```bash
+pkg install yarn
+yarn
+```
+
+---
+
+## Run
+```bash
+node .
+```
+---
+
+### Connection Options
+- Support Qr Code
+- Support Pairing Code
+---
+
+### Features
+| Menu     | Bot | Group | Search | Download | Tools | Ai | Game | Fun | Owner |
+| -------- | --- | ----- | ------ | -------- | ----- | -- | ---- | --- | ----- |
+| Work     |  ✅  |   ✅   |    ✅    |     ✅     |   ✅   | ✅ |   ✅   |  ✅  |    ✅    |
+
+
 # thanks for
 • NazeDev  ( penyedia base )
 

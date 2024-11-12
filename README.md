@@ -11,7 +11,7 @@ pkg install git
 pkg install nodejs
 pkg install ffmpeg
 pkg install imagemagick
-git clone https://github.com/Xzuya-Dev/wa+bot
+git clone https://github.com/Xzuya-Dev/wa-bot
 cd Xzuya
 npm install
 ```
@@ -42,6 +42,6 @@ node .
 
 
 # thanks for
-• NazeDev  ( penyedia base )
+• - [NazeDev](https://github.com/nazedev) ( penyedia base )
 
 • Stack Learn code ( my group )

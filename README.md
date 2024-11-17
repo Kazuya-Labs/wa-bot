@@ -11,7 +11,7 @@ pkg install git
 pkg install nodejs
 pkg install ffmpeg
 pkg install imagemagick
-git clone https://github.com/Xzuya-Dev/wa-bot
+git clone https://github.com/Kazuya-Labs/wa-bot
 cd Xzuya
 npm install
 ```
